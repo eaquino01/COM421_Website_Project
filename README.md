@@ -15,7 +15,7 @@ This website is mainly written in HTML and styled with CSS components.
 
 --What I would have done differently--
 
-There are some parts in the .html files that have some stylistic elements, mainly '<strong>' and '<em>' as I did not want to write redundant code in CSS. I also wanted to 
-add some more text in the 'About Me' section, but I felt like I didn't need to add more because it would seem unprofessional. Additionally, I wanted to add more padding
-between the contact information and 'Resume | Download Resume (PDF)' on my 'Resume' page. It looks scrunched up, but it doesn't look too bad. I would also want to reduce
+There are some parts in the .html files that have some stylistic elements, as I did not want to write redundant code in CSS. I also wanted to add some more text in the
+'About Me' section, but I felt like I didn't need to add more because it would seem unprofessional. Additionally, I wanted to add more padding between the contact
+information and 'Resume | Download Resume (PDF)' on my 'Resume' page. It looks scrunched up, but it doesn't look too bad. I would also want to reduce
 the padding between text on my 'Resume' page, as it feels spaced out and a lot of white space is taking up the page.
