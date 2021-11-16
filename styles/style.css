@@ -1,0 +1,171 @@
+﻿main {
+    float: left;
+    width: 100%;
+    padding-bottom: 5000px;
+    margin-bottom: -5000px;
+}
+
+body {
+    background-color: white;
+    width: 100%;
+    font-family: 'Zen Kaku Gothic Antique';
+    line-height: 2em;
+}
+
+#nav {
+    float: left;
+    width: 200px;
+    margin-left: -100%;
+    margin-bottom: -5000px;
+    padding-bottom: 5000px;
+    background-color: lightsteelblue;
+    font-family: 'Zen Kaku Gothic Antique';
+}
+
+nav p {
+    font-size: 18px;
+    text-align: left;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+    nav ul a {
+        font-size: 20px;
+        text-decoration: none;
+        font-family: 'Zen Kaku Gothic Antique';
+        color: black;
+        text-align: center;
+        display: inline;
+        padding: 10px;
+    }
+
+nav a:hover {
+    text-decoration: none;
+    background-color: lightslategray;
+    font-size: 23px:
+}
+
+#page {
+    overflow: hidden;
+}
+
+#Name {
+    margin-left: 200px;
+}
+
+.pad {
+    margin: 20px;
+    margin-top: 0;
+}
+
+#Biography {
+}
+
+    #Biography img {
+        width: 15%;
+        padding: 10px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border: 3px solid lightsteelblue;
+        float: center;
+    }
+
+    #Biography h2 {
+        font-family: 'Zen Kaku Gothic Antique';
+        text-align: center;
+    }
+
+    #Biography p {
+        font-family: 'Zen Kaku Gothic Antique';
+        padding-top: 1px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 1px;
+        border: 10px solid white;
+        float: right inherit;
+    }
+
+#Resume {
+    font-family: 'Zen Kaku Gothic Antique';
+}
+
+    #Resume p {
+        font-size: 15px;
+        text-align: left;
+    }
+
+#education ul {
+    text-align: left;
+    font-size: 13px;
+}
+
+#skills ul {
+    font-size: 13px;
+    text-align: left;
+}
+
+#projects ul {
+    font-size: 13px;
+    text-align: left;
+}
+
+#experience ul {
+    font-size: 15px;
+    text-align: left;
+}
+
+#experience li {
+    font-size: 13px;
+    text-align: left;
+}
+
+#work ul {
+    font-size: 15px;
+    text-align: left;
+}
+
+#work li {
+    font-size: 13px;
+    text-align: left;
+}
+
+#organizations ul {
+    font-size: 15px;
+    text-align: left;
+}
+
+#organizations li {
+    font-size: 13px;
+    text-align: left;
+}
+
+
+h1 {
+    font-family: 'Zen Kaku Gothic Antique';
+    font-size: 60px;
+    font-weight: bold;
+    text-align-last: center;
+}
+
+h2 {
+    font-family: 'Zen Kaku Gothic Antique';
+    text-align-last: center;
+}
+
+h3 {
+    font-family: 'Zen Kaku Gothic Antique';
+    font-size: 20px;
+    text-align-last: left;
+}
+
+h4 {
+    font-family: 'Zen Kaku Gothic Antique';
+    font-size: 18px;
+    font-weight: 500;
+    text-align-last: left;
+}
