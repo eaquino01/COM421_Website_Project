@@ -2,7 +2,7 @@
 
 This is a website created for COM 421 at Illinois Tech.
 
---Walk-through--
+<strong>--Walk-through--</strong>
 
 Upon clicking the link, you will be brough to the homepage. There you see a short 'About Me' section and a menu bar on the left-hand side. The menu contains options
 for the 'Home' page, 'Resume' Page, and a link to my LinkedIn profile.
@@ -13,7 +13,7 @@ to view. This page also contains my resume, written out in HTML, if an employer 
 
 This website is mainly written in HTML and styled with CSS components.
 
---What I would have done differently--
+<strong>--What I would have done differently--</strong>
 
 There are some parts in the .html files that have some stylistic elements, as I did not want to write redundant code in CSS. I also wanted to add some more text in the
 'About Me' section, but I felt like I didn't need to add more because it would seem unprofessional. Additionally, I wanted to add more padding between the contact
